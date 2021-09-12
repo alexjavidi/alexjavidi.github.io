@@ -1,10 +1,10 @@
 ---
 layout: post
-title: The importance of effect size
-subtitle: p value is not enough by Alex Javidi
+title: The Importance of Effect Size
+subtitle: Why P Value is Not Enough
 cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/measure-1509707_640.jpg
-share-img: /assets/img/measure-1509707_640.jpg
+#thumbnail-img: /assets/img/measure-1509707_640.jpg
+#share-img: /assets/img/path.jpg
 tags: [statistics, significance, effect-size]
 ---
 
