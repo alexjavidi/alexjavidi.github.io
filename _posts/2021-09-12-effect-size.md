@@ -1,6 +1,6 @@
 ---
 layout: post
-title: On Effect Size
+title: Effect Size
 subtitle: Why P Value is Not Enough
 #cover-img: /assets/img/path.jpg
 #thumbnail-img: /assets/img/measure-1509707_640.jpg
@@ -8,9 +8,14 @@ subtitle: Why P Value is Not Enough
 tags: [statistics, significance, effect-size]
 ---
 
-Effect size is one of the most importat outcomes of an empirical study. It is always good to go back to the library, and read some books or papers. Beacuse there is a good chance that you can find good stuff from world-class experts. Hisotry is the best teacher!
+Effect size is one of the most importat outcomes of an empirical study. Here are some qoutes that shed light on the importance of effect size:
 
-Here are some qoutes that shed some light on the importance of effect size:
+> Practically every empirical study is looking for an effect. Effect sizes quantify the magnitude of the effect that emerges from the sampled data. Thus, they are the currency of psychological research. Effect sizes can be unstandardized measures such as the difference between two means, but more often they are standardized, which makes them independent of a study’s scales and instruments, making it in principal possible to compare different domains and approaches.
+
+[The Meaningfulness of Effect Sizes in Psychological Research: Differences Between Sub-Disciplines and the Impact of Potential Biases
+](https://www.frontiersin.org/articles/10.3389/fpsyg.2019.00813/full)
+
+
 > ‘Effect size’ is simply a way of quantifying the size of the difference between 
 two groups. It is easy to calculate, readily understood and can be applied to any 
 measured outcome in Education or Social Science. It is particularly valuable for
@@ -36,4 +41,7 @@ reasons, effect size is an important tool in reporting and interpreting effectiv
  
  [Calculating and reporting effect sizes to facilitate cumulative science: a practical primer for t-tests and ANOVAs](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3840331/)
 
- 
+
+ As you can see, it is always good practice to go back to the library, and read some books or papers. Beacuse there is a good chance that you can find good stuff from world-class experts. Hisotry is the best teacher.
+
+ By: Alex Javidi
