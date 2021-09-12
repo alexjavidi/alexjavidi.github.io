@@ -8,7 +8,9 @@ subtitle: Why P Value is Not Enough
 tags: [statistics, significance, effect-size]
 ---
 
-Let's start by a quick literature review:
+Effect size is one of the most importat outcomes of an empirical study. It is always good to go back to the library, and read some books or papers. Beacuse there is a good chance that you can find good stuff from world-class experts. Hisotry is the best teacher!
+
+Here are some qoutes that shed some light on the importance of effect size:
 
 > I have learned and taught that the primary product of a research inquiry is one or more measures of effect size, not p values. Effect-size measures include mean differences (raw or standardized), correlations and squared correlation of all kinds, odds ratios, kappas-whatever conveys the magnitude of the phenomenon of interest appropriate to the reseach context.
 
