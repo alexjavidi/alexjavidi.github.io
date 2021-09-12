@@ -21,6 +21,7 @@ the emphasis on the most important aspect of an intervention – the size of the
 rather than its statistical significance (which conflates effect size and sample size), it 
 promotes a more scientific approach to the accumulation of knowledge. For these 
 reasons, effect size is an important tool in reporting and interpreting effectiveness.
+
 [It's the Effect Size, Stupid](https://f.hubspotusercontent30.net/hubfs/5191137/attachments/ebe/ESguide.pdf)
 
 > Statistical significance is the least interesting thing about the results. You should describe the results in terms of measures of magnitude—not just, does a treatment affect people, but how much does it affect them.
