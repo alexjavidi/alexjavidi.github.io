@@ -35,7 +35,7 @@ reasons, effect size is an important tool in reporting and interpreting effectiv
 
 > I have learned and taught that the primary product of a research inquiry is one or more measures of effect size, not p values. Effect-size measures include mean differences (raw or standardized), correlations and squared correlation of all kinds, odds ratios, kappas-whatever conveys the magnitude of the phenomenon of interest appropriate to the reseach context.
 
-[Things I have learned (so far)](https://psycnet.apa.org/doiLanding?doi=10.1037%2F0003-066X.45.12.1304)
+[Things I have learned (so far)](https://tech.me.holycross.edu/files/2015/03/Cohen_1990.pdf)
 
 > Effect sizes are the most important outcome of empirical studies. Most articles on effect sizes highlight their importance to communicate the practical significance of results. For scientists themselves, effect sizes are most useful because they facilitate cumulative science. Effect sizes can be used to determine the sample size for follow-up studies, or examining effects across studies.
  
