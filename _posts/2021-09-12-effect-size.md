@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Importance of Effect Size
+title: On Effect Size
 subtitle: Why P Value is Not Enough
 #cover-img: /assets/img/path.jpg
 #thumbnail-img: /assets/img/measure-1509707_640.jpg
