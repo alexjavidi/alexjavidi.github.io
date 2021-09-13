@@ -8,7 +8,7 @@ subtitle: Why P Value is Not Enough
 tags: [statistics, significance, effect-size]
 ---
 
-Effect size is one of the most importat outcomes of an empirical study. Here are some qoutes that shed light on the importance of effect size:
+Effect size is one of the most importat outcomes of an empirical study. Let us start by a quick literature review:
 
 > Practically every empirical study is looking for an effect. Effect sizes quantify the magnitude of the effect that emerges from the sampled data. Thus, they are the currency of psychological research. Effect sizes can be unstandardized measures such as the difference between two means, but more often they are standardized, which makes them independent of a study’s scales and instruments, making it in principal possible to compare different domains and approaches.
 
@@ -41,7 +41,5 @@ reasons, effect size is an important tool in reporting and interpreting effectiv
  
  [Calculating and reporting effect sizes to facilitate cumulative science: a practical primer for t-tests and ANOVAs](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3840331/)
 
-
- As you can see, it is always good practice to go back to the library, and read some books or papers. Beacuse there is a good chance that you can find good stuff from world-class experts. Hisotry is the best teacher.
 
  By: Alex Javidi
