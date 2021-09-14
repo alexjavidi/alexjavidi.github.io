@@ -8,6 +8,14 @@ subtitle: Why goodness of fit is necessary but not sufficient
 tags: [statistics, model complexity]
 ---
 
+> An improper choice of model or method can lead to purely noisy “discoveries”, severely misleading
+conclusions, or disappointing predictive performances. Therefore, a crucial step in a typical data analysis is
+to consider a set of candidate models (referred to as the model class), and then select the most appropriate one.
+In other words, model selection is the task of selecting a statistical model from a model class, given a set of data.
+
+[Model Selection Techniques-An Overview](https://arxiv.org/pdf/1810.09583.pdf)
+
+
 > While the goal of mathematical modeling in cognitive psychology is to select one
 model from a set of competing models that best captures the underlying mental
 process, the researcher often chooses the model that best fits a particular set of
@@ -42,7 +50,6 @@ into understanding and improving the performance of model optimization and
 regularization [44, 74, 89].
 
 [Model Complexity of Deep Learning: A Survey](https://arxiv.org/abs/2103.05127)
-
 
 
  By: Alex Javidi
