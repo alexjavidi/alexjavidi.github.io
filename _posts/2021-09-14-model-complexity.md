@@ -23,6 +23,12 @@ when evaluating models. A simple model will generalize better to new data sets t
 a complex model and thus will have a higher degree of predictive accuracy. In addition, a simple model's behavior is more tractable because parameter estimates will
 be more stable after repeated data fittings than those of complex models.
 
+> A central theme of model selection is that to avoid choosing unnecessarily complex models, a model should be selected based on its generalizability, rather than
+its goodness of fit. This goal is realized by defining a selection criterion that makes
+an appropriate adjustment to its goodness of fit by taking into account the contribution from model complexity. There are at least seven different selection
+methods that are currently in use. They differ from one another in terms of how
+such adjustments are made to best estimate a model's generalizability
+
 [The Importance of Complexity in Model Selection](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.549.1687&rep=rep1&type=pdf)
 
 
