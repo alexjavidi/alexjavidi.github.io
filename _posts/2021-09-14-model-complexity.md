@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Model Complexity
-subtitle: Why goodness of fit is a necessary but not sufficient
+subtitle: Why goodness of fit is necessary but not sufficient
 #cover-img: /assets/img/path.jpg
 #thumbnail-img: /assets/img/measure-1509707_640.jpg
 #share-img: /assets/img/path.jpg
-tags: [statistics, significance, effect-size]
+tags: [statistics, model complexity]
 ---
 
 > While the goal of mathematical modeling in cognitive psychology is to select one
