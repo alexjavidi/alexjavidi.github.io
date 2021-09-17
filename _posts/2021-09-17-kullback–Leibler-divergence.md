@@ -20,4 +20,16 @@ q(x) typically represents a theory, model, description, or approximation of p(x)
 
 [Kullback-Leibler Divergence](http://hanj.cs.illinois.edu/cs412/bk3/KL-divergence.pdf)
 
+> In machine learning and neuroscience the KL divergence
+also plays a leading role. In Bayesian machine learning,
+it is typically used to approximate an intractable density
+model. For example, expectation propagation [16] iteratively
+approximates an exponential family model to the desired
+density, minimising the inclusive KL divergence: D(P||Papp).
+While variational methods [15] minimize the exclusive KL
+divergence, D(Papp||P), to fit the best approximation to P.
+
+[Kullback-Leibler Divergence Estimation of
+Continuous Distributions](http://www.tsc.uc3m.es/~fernando/bare_conf3.pdf)
+
  By: Alex Javidi
