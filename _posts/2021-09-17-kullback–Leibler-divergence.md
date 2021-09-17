@@ -14,7 +14,9 @@ divergence, has been popularly used in the data mining literature. The concept
 was originated in probability theory and information theory.
 The KL divergence, which is closely related to relative entropy, information divergence, and information for discrimination, is a non-symmetric measure of the difference between two probability distributions p(x) and q(x).
 Specifically, the Kullback-Leibler (KL) divergence of q(x) from p(x), denoted
-DKL(p(x), q(x)), is a measure of the information lost when q(x) is used to approximate p(x).
+DKL(p(x), q(x)), is a measure of the information lost when q(x) is used to approximate p(x). Typically p(x) represents the “true” distribution of data,
+observations, or a precisely calculated theoretical distribution. The measure
+q(x) typically represents a theory, model, description, or approximation of p(x).
 
 [Kullback-Leibler Divergence](http://hanj.cs.illinois.edu/cs412/bk3/KL-divergence.pdf)
 
