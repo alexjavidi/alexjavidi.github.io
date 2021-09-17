@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Simulsted Annealing
+title: Simulated Annealing
 subtitle: Approximating the global optimum of a given function 
 #cover-img: /assets/img/path.jpg
 #thumbnail-img: /assets/img/measure-1509707_640.jpg
