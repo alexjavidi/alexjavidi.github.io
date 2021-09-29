@@ -5,7 +5,7 @@ subtitle: No single study is a pure reflection of the underlying truth
 #cover-img: /assets/img/path.jpg
 #thumbnail-img: /assets/img/measure-1509707_640.jpg
 #share-img: /assets/img/path.jpg
-tags: [probability theory, combinatorial problems]
+tags: [replications, prediction intervals]
 ---
 
 
